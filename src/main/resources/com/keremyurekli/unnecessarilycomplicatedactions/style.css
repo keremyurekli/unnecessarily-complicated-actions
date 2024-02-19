@@ -1,0 +1,16 @@
+.red {
+    -fx-fill: red;
+    }
+.green {
+    -fx-fill: green;
+ }
+
+ .button {
+    -fx-text-fill: white;
+    -fx-background-color: rgb(252, 35, 35);
+ }
+
+  .button:hover {
+     -fx-text-fill: white;
+     -fx-background-color: rgb(212, 2, 2);
+  }
